@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/uart.png</file>
+        <file>image/uart2.png</file>
+        <file>image/uart3.png</file>
+        <file>image/uart4.png</file>
+        <file>image/uart.jpg</file>
+    </qresource>
+</RCC>
